@@ -1,2 +1,2 @@
 # dream-come-true
-My dream will come true with Adobe Dreamweaver.
+I will make a web application with Adobe Dreamweaver, HTML5, CSS, JavaScript, PHP, MSSQL.
